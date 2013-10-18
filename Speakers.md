@@ -1,5 +1,4 @@
-
-## Rails Israel 2013 Speakers
+## DevconTLV Feb 2012 Speakers
 
 | Name | Talk Title | Twitter |
 |:-----------:|:------------:|:------------:|
