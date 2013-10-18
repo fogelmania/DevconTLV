@@ -1,8 +1,12 @@
 ## DevconTLV February 2012 Speakers
 
-| Name | Talk Title | Twitter |
-|:-----------:|:------------:|:------------:|
-| XXX     |      YYY |    @ZZZ  
+| Name |  | Talk Title  | Twitter |  Video | Slides |
+|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
+| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
+| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
+| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
+| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
+| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
 
 
 ## DevconTLV September 2012 Speakers
