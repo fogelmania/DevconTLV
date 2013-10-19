@@ -4,10 +4,15 @@
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
 | Yossi Vardi      |       |      All I know about startups I learned at my parents 6 tables restaurant  |      |  [YouTube](http://www.youtube.com/watch?v=zxZnikHqiOw)   |    |    | 
 | Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
+| Ido Green      |      Google |  YYY |   @ZZZ  |    |    |  
+| Danni Friedland      |      PayPal |  YYY |   @ZZZ  |    |    |  
+| Vitaly Kushner      |      Astrails |  YYY |   @ZZZ  |    |    |  
+| Amitai Burstein      |      YYY |   YYY |  @ZZZ  |    |    |  
+| Ran Nachmany      |      YYY |   YYY |  @ZZZ  |    |    |  
 | Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+| Haim Michael      |      YYY |   YYY |  @ZZZ  |    |    |  
+ 
+
 
 
 ## DevconTLV September 2012 Speakers
