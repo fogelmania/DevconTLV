@@ -2,6 +2,7 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
+| Yossi Vardi      |       |      All I know about startups I learned at my parents 6 tables restaurant  |      |  [YouTube](http://www.youtube.com/watch?v=zxZnikHqiOw)   |    |    | 
 | Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
 | Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
 | Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
