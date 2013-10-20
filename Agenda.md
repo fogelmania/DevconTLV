@@ -36,7 +36,7 @@
 | Damien Katz      |       |    |    |    |    |  
 | Armin Ronacher       |       |    |    |    |    |  
 | Baruch Sadogursky      |  JFrog     |    |  @jbaruch  |    |    |  
-| Kenneth Reitz      |   Heroku    |  [API Driven Development](http://devcon-february.events.co.il/presentations/691-api-driven-development)  |  @kennethreitz  |  [YouTube](http://www.youtube.com/watch?v=vsmfgRG3W1c)  |    |  
+| Kenneth Reitz      |   Heroku    |  [API Driven Development](http://devcon-february.events.co.il/presentations/691-api-driven-development)  |  @kennethreitz  |  [YouTube](http://www.youtube.com/watch?v=vsmfgRG3W1c)  | [Speaker Deck](https://speakerdeck.com/kennethreitz/api-driven-development)   |  
 | Damien Katz      |       |    |    |    |    |  
 | Damien Katz      |       |    |    |    |    |  
 | Damien Katz      |       |    |    |    |    |  
@@ -93,11 +93,11 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+|       |      Google |       |     |   |    |    |   
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|      |       |   |     |    |    |  
+|       |       |    |   |    |    |  
 
 
 
