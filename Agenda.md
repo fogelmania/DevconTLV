@@ -69,12 +69,19 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-
+|   Konstantin Haase    |    Travis CI   |   |     |    |    |  
+|    Vicent Martí    |     GitHub  |   |     |    |    |  
+|   Alon Eizenman     |    CA Technologies   |   |     |    |    |  
+|    Ofer Ron    |   LivePerson    |   |     |    |    |  
+|    André Arko   |       |   |     |    |    |  
+|    Aviran Mordo   |  Wix     |   |     |    |    |  
+|    David Bonilla    |  Atlassian      |   |     |    |    |  
+|    Alex Koppel    |   eSpark    |   |     |    |    |  
+|    João M. D. Moura   |       |   |     |    |    |  
+|     Victor Trakhtenberg   |  SupportSpace     |   |     |    |    |  
+|    Ori Hoch    |       |   |     |    |    |  
+|    Yehuda Katz    |    Tilde   |   |     |    |    |  
+ 
 
 
 ## DevconTLV January 2014 Speakers
