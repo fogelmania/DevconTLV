@@ -47,12 +47,21 @@
 |     Sim Zacks  |       |   |     |    |    |  
 |     Jan Krutisch   |       |   |     |    |    |  
 |    Yardena Meymann   |   VMware    | [Better Concurrency with Scala](http://devcon-february.events.co.il/presentations/711-better-concurrency-with-scala)  |    @ymeymann |  [YouTube](http://www.youtube.com/watch?v=EmL62A3nJnk)  |  [SlideShare]( http://www.slideshare.net/whyme/dev-conil?ref=http://devcon-february.events.co.il/presentations/711-better-concurrency-with-scala) 
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
+|      Ronen Narkis  |       |   |     |    |    |  
+|    Tomer Gabel    |       |   |     |    |    |  
+|   Evgeny Goldin     |       |   |     |    |    |  
+|     Mike Skalnik   |       |   |     |    |    |  
+|    Gil Zilberfeld    |       |   |     |    |    |  
+|     Yuval Yeret   |       |   |     |    |    |  
+|    Dror Helper    |       |   |     |    |    |  
+|    DJ Gorali    |       |   |     |    |    |  
+|     Boris Martzinovsky  |       |   |     |    |    |  
+|    Oded Shechter   |       |   |     |    |    | 
+|     Rona Geffen   |   |     |    |    |     
+|       |   |     |    |    |
+|       |   |     |    |    |
+|       |   |     |    |    |
+
 	
 
 
