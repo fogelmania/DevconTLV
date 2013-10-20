@@ -31,9 +31,26 @@
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
 | Amir Shevat      |      Google |      [Introduction to Campus TLV](http://devcon-february.events.co.il/presentations/697-introduction-to-campus-tlv)|    @ashevat |  [YouTube](http://www.youtube.com/watch?v=eK4tIFq5Af0)  |    |     
 | Ido Green      |      Google |  [HTML5 and Google Cloud Services](http://devcon-february.events.co.il/presentations/690-html5-and-google-cloud-services) |   @greenido  |  [YouTube](http://www.youtube.com/watch?v=-HqMcPx34PM)  |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+| Daniel Hengeveld      |       |   |    |    |    |  
+| Carlos Conde       |       |   |     |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Armin Ronacher       |       |    |    |    |    |  
+| Baruch Sadogursky      |  JFrog     |    |  @jbaruch  |    |    |  
+| Kenneth Reitz      |   Heroku    |  [API Driven Development](http://devcon-february.events.co.il/presentations/691-api-driven-development)  |  @kennethreitz  |  [YouTube](http://www.youtube.com/watch?v=vsmfgRG3W1c)  |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+| Damien Katz      |       |    |    |    |    |  
+
+
+
+
+
+
 
 
 ## DevconTLV June 2013 Speakers
