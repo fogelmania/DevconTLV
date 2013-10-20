@@ -37,15 +37,23 @@
 | Armin Ronacher       |       |    |    |    |    |  
 | Baruch Sadogursky      |  JFrog     |    |  @jbaruch  |    |    |  
 | Kenneth Reitz      |   Heroku    |  [API Driven Development](http://devcon-february.events.co.il/presentations/691-api-driven-development)  |  @kennethreitz  |  [YouTube](http://www.youtube.com/watch?v=vsmfgRG3W1c)  | [Speaker Deck](https://speakerdeck.com/kennethreitz/api-driven-development)   |  
+|    Haggai Shachar    |   LivePerson    |   |     |    |    |  
+|     Assaf Perry   |   PayPal    |   |     |    |    |  
+|     Anton Arhipov   |       |   |     |    |    |  
+|      Idan Gazit  |       |   |     |    |    |  
+|    Stas Krichevsky    |       |   |     |    |    |  
+|    Aviran Mordo    |       |   |     |    |    |  
+|      Thorben Schröder |       |   |     |    |    |  
+|     Sim Zacks  |       |   |     |    |    |  
+|     Jan Krutisch   |       |   |     |    |    |  
+|    Yardena Meymann   |   VMware    | [Better Concurrency with Scala](http://devcon-february.events.co.il/presentations/711-better-concurrency-with-scala)  |    @ymeymann |  [YouTube](http://www.youtube.com/watch?v=EmL62A3nJnk)  |  [SlideShare]( http://www.slideshare.net/whyme/dev-conil?ref=http://devcon-february.events.co.il/presentations/711-better-concurrency-with-scala) 
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-
+	
 
 
 
