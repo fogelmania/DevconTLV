@@ -29,8 +29,8 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
+| Amir Shevat      |      Google |      [Introduction to Campus TLV](http://devcon-february.events.co.il/presentations/697-introduction-to-campus-tlv)|    @ashevat |  [YouTube](http://www.youtube.com/watch?v=eK4tIFq5Af0)  |    |     
+| Ido Green      |      Google |  [HTML5 and Google Cloud Services](http://devcon-february.events.co.il/presentations/690-html5-and-google-cloud-services) |   @greenido  |  [YouTube](http://www.youtube.com/watch?v=-HqMcPx34PM)  |    |  
 | Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
 | Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
 | Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
