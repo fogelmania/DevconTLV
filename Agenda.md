@@ -4,13 +4,13 @@
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
 | Yossi Vardi      |       |      All I know about startups I learned at my parents 6 tables restaurant  |      |  [YouTube](http://www.youtube.com/watch?v=zxZnikHqiOw)   |    |    | 
 | Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Ido Green      |      Google |  YYY |   @ZZZ  |    |    |  
-| Danni Friedland      |      PayPal |  YYY |   @ZZZ  |    |    |  
-| Vitaly Kushner      |      Astrails |  YYY |   @ZZZ  |    |    |  
-| Amitai Burstein      |      YYY |   YYY |  @ZZZ  |    |    |  
-| Ran Nachmany      |      YYY |   YYY |  @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
-| Haim Michael      |      YYY |   YYY |  @ZZZ  |    |    |  
+| Ido Green      |      Google |   |     |    |    |  
+| Danni Friedland      |      PayPal |   |     |    |    |  
+| Vitaly Kushner      |      Astrails |   |     |    |    |  
+| Amitai Burstein      |       |    |    |    |    |  
+| Ran Nachmany      |       |    |    |    |    |  
+| Zohar Arad      |       |    |    |    |    |  
+| Haim Michael      |       |    |    |    |    |  
  
 
 
@@ -19,10 +19,10 @@
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
 | Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
 
 
 ## DevconTLV February 2013 Speakers
@@ -37,14 +37,14 @@
 | Armin Ronacher       |       |    |    |    |    |  
 | Baruch Sadogursky      |  JFrog     |    |  @jbaruch  |    |    |  
 | Kenneth Reitz      |   Heroku    |  [API Driven Development](http://devcon-february.events.co.il/presentations/691-api-driven-development)  |  @kennethreitz  |  [YouTube](http://www.youtube.com/watch?v=vsmfgRG3W1c)  | [Speaker Deck](https://speakerdeck.com/kennethreitz/api-driven-development)   |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
-| Damien Katz      |       |    |    |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
 
 
 
@@ -57,11 +57,11 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
 
 
 
@@ -69,11 +69,11 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
 
 
 
@@ -81,11 +81,11 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-| Amir Shevat      |      Google |      Analytics for Mobile |    [@ashevat](https://twitter.com/ashevat)  |  [YouTube](http://www.youtube.com/watch?v=LgJ4lumhxvE)   |    |    |   
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |  YYY |   @ZZZ  |    |    |  
-| Zohar Arad      |      YYY |   YYY |  @ZZZ  |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
+|       |       |   |     |    |    |  
 
 
 
