@@ -74,12 +74,31 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-|       |       |   |     |    |    |  
-
+|   Digital Me    |       |   |     |    |    |  
+|   Ido Green    |       |   |     |    |    |  
+|      Stephen Blum |       |   |     |    |    |  
+|   Eric Redmond    |       |   |     |    |    |  
+|     Shai Rubin  |       |   |     |    |    |  
+|     Efim Dimenstein  |       |   |     |    |    |  
+|     Gary Levitt  |       |   |     |    |    |  
+|     Ole Michaelis  |       |   |     |    |    |  
+|     Dirkjan Bussink  |       |   |     |    |    |  
+|     Yair Adato  |       |   |     |    |    |  
+|     Luke Hefson  |       |   |     |    |    |  
+|     Yossef Mendelssohn  |       |   |     |    |    |  
+|     Vitaly Kushner  |       |   |     |    |    |  
+|     Francesco Cesarini  |       |   |     |    |    |  
+|     Roi Lipman  |       |   |     |    |    |  
+|     Roni Tamari  |       |   |     |    |    |  
+|    Oren Ellenbogen |       |   |     |    |    |  
+|     Gil Zilberfeld  |       |   |     |    |    |  
+|     Aviran Mordo  |       |   |     |    |    |  
+|     Elad Meidar  |       |   |     |    |    |  
+|     Zachary Kessin |       |   |     |    |    |  
+|     Alexander Fok  |       |   |     |    |    |  
+|     Lahav Savir  |       |   |     |    |    |  
+|     Zvi Avraham  |       |   |     |    |    |  
+  
 
 
 ## DevconTLV October 2013 Speakers
@@ -105,7 +124,7 @@
 
 | Name | Organization | Talk Title  | Twitter |  Video | Slides |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:| :------------:|
-|       |       |   |     |    |    |  
+|     Yossi Vardi  |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
 |       |       |   |     |    |    |  
