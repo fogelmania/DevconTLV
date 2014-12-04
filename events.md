@@ -15,5 +15,4 @@ Server Side Development and Rock and Roll Conference. Taking place in Tel Aviv, 
 | January 2014   | Tel Aviv, Israel | [GitHub](https://github.com/fogelmania/DevconTLV/blob/master/Agenda.md#devcontlv-february-2012-speakers) |   [Conference Site](http://devcon-jan14.events.co.il/speakers-list) |  YouTube  |  
 | May 2014      | Tel Aviv, Israel |    [GitHub] |   [Conference Site] |  YouTube  |  
 | June 2014      | Tel Aviv, Israel |    [GitHub] |   [Conference Site] |  YouTube  |  
-
 | March 2015      | Tel Aviv, Israel |    [GitHub] |   [Conference Site] |  YouTube  | 
